@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339411228301",
+    "project_id": "mahesh651-c7bb4",
+    "storage_bucket": "mahesh651-c7bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339411228301:android:68bf6823b27f3ff1e274c4",
+        "android_client_info": {
+          "package_name": "com.example.mahesh651"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqjJb3GnG9auqZAxygz_mmz1Y8GeJkq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
